@@ -1,88 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>智冕的 blog</title>
   
-  
+  <subtitle>世界是个回音谷，念念不忘，必有回响</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-07-27T12:51:08.766Z</updated>
+  <updated>2018-07-29T09:07:05.291Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>梁智冕  Liang Zhimian</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>a</title>
-    <link href="http://yoursite.com/2018/07/27/a/"/>
-    <id>http://yoursite.com/2018/07/27/a/</id>
-    <published>2018-07-27T12:51:08.000Z</published>
-    <updated>2018-07-27T12:51:08.766Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>termal theme</title>
-    <link href="http://yoursite.com/2018/07/27/termal-theme/"/>
-    <id>http://yoursite.com/2018/07/27/termal-theme/</id>
+    <title>用vue-cli搭建一个app</title>
+    <link href="http://yoursite.com/2018/07/27/%E7%94%A8vue-cli%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AAapp/"/>
+    <id>http://yoursite.com/2018/07/27/用vue-cli搭建一个app/</id>
     <published>2018-07-27T07:53:28.000Z</published>
-    <updated>2018-07-27T07:53:28.477Z</updated>
+    <updated>2018-07-29T09:07:05.291Z</updated>
+    
+    <content type="html"><![CDATA[<p>使用vue-cli搭建vue环境开发app的步骤<br>必须要先安装好nodeJS<br><a href="https://nodejs.org" target="_blank" rel="noopener">node官网</a>  <a href="https://nodejs.cn" target="_blank" rel="noopener">node中文网</a><br>可以在命令行输以下面代码<br>若返回版本号<br>则说明已经配置好node环境且可以使用npm</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ node -v</span><br><span class="line">$ npm -v</span><br></pre></td></tr></table></figure><h2 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h2><h3 id="下载vue-cli"><a href="#下载vue-cli" class="headerlink" title="下载vue-cli"></a>下载vue-cli</h3><p>打开cmd或者git bash等命令行工具<br>运行代码</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install vue-cli -g</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;使用vue-cli搭建vue环境开发app的步骤&lt;br&gt;必须要先安装好nodeJS&lt;br&gt;&lt;a href=&quot;https://nodejs.org&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;node官网&lt;/a&gt;  &lt;a href=&quot;https://nod
+      
     
     </summary>
     
     
-  </entry>
-  
-  <entry>
-    <title>邱GH昨晚在宿舍和她的新女朋友XXOO</title>
-    <link href="http://yoursite.com/2018/07/27/%E9%82%B1GH%E6%98%A8%E6%99%9A%E5%9C%A8%E5%AE%BF%E8%88%8D%E5%92%8C%E5%A5%B9%E7%9A%84%E6%96%B0%E5%A5%B3%E6%9C%8B%E5%8F%8BXXOO/"/>
-    <id>http://yoursite.com/2018/07/27/邱GH昨晚在宿舍和她的新女朋友XXOO/</id>
-    <published>2018-07-27T07:18:07.000Z</published>
-    <updated>2018-07-27T07:18:07.991Z</updated>
+      <category term="vue-cli" scheme="http://yoursite.com/tags/vue-cli/"/>
     
-    <summary type="html">
+      <category term="vue2" scheme="http://yoursite.com/tags/vue2/"/>
     
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>换主题</title>
-    <link href="http://yoursite.com/2018/07/27/%E6%8D%A2%E4%B8%BB%E9%A2%98/"/>
-    <id>http://yoursite.com/2018/07/27/换主题/</id>
-    <published>2018-07-27T01:31:18.000Z</published>
-    <updated>2018-07-27T01:31:19.014Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>更换主题</title>
-    <link href="http://yoursite.com/2018/07/27/%E6%9B%B4%E6%8D%A2%E4%B8%BB%E9%A2%98/"/>
-    <id>http://yoursite.com/2018/07/27/更换主题/</id>
-    <published>2018-07-27T01:22:22.000Z</published>
-    <updated>2018-07-27T01:22:22.787Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
+      <category term="app" scheme="http://yoursite.com/tags/app/"/>
     
   </entry>
   

@@ -2,37 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2018/07/27/a/</loc>
+    <loc>http://yoursite.com/about/index.html</loc>
     
-    <lastmod>2018-07-27T12:51:08.766Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/07/27/termal-theme/</loc>
-    
-    <lastmod>2018-07-27T07:53:28.477Z</lastmod>
+    <lastmod>2018-07-29T09:12:32.156Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2018/07/27/%E9%82%B1GH%E6%98%A8%E6%99%9A%E5%9C%A8%E5%AE%BF%E8%88%8D%E5%92%8C%E5%A5%B9%E7%9A%84%E6%96%B0%E5%A5%B3%E6%9C%8B%E5%8F%8BXXOO/</loc>
+    <loc>http://yoursite.com/2018/07/27/%E7%94%A8vue-cli%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AAapp/</loc>
     
-    <lastmod>2018-07-27T07:18:07.991Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/07/27/%E6%8D%A2%E4%B8%BB%E9%A2%98/</loc>
-    
-    <lastmod>2018-07-27T01:31:19.014Z</lastmod>
+    <lastmod>2018-07-29T09:07:05.291Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2018/07/27/%E6%9B%B4%E6%8D%A2%E4%B8%BB%E9%A2%98/</loc>
+    <loc>http://yoursite.com/tags/index.html</loc>
     
-    <lastmod>2018-07-27T01:22:22.787Z</lastmod>
+    <lastmod>2018-07-29T09:06:41.241Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/something/index.html</loc>
+    
+    <lastmod>2018-07-29T09:02:29.522Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/archives/index.html</loc>
+    
+    <lastmod>2018-07-29T09:02:20.146Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2018-07-29T09:02:12.411Z</lastmod>
     
   </url>
   
