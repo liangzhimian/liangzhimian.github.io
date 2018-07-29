@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-07-29T09:07:05.291Z</updated>
+  <updated>2018-07-29T09:43:55.139Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2018/07/27/%E7%94%A8vue-cli%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AAapp/"/>
     <id>http://yoursite.com/2018/07/27/用vue-cli搭建一个app/</id>
     <published>2018-07-27T07:53:28.000Z</published>
-    <updated>2018-07-29T09:07:05.291Z</updated>
+    <updated>2018-07-29T09:43:55.139Z</updated>
     
-    <content type="html"><![CDATA[<p>使用vue-cli搭建vue环境开发app的步骤<br>必须要先安装好nodeJS<br><a href="https://nodejs.org" target="_blank" rel="noopener">node官网</a>  <a href="https://nodejs.cn" target="_blank" rel="noopener">node中文网</a><br>可以在命令行输以下面代码<br>若返回版本号<br>则说明已经配置好node环境且可以使用npm</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ node -v</span><br><span class="line">$ npm -v</span><br></pre></td></tr></table></figure><h2 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h2><h3 id="下载vue-cli"><a href="#下载vue-cli" class="headerlink" title="下载vue-cli"></a>下载vue-cli</h3><p>打开cmd或者git bash等命令行工具<br>运行代码</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install vue-cli -g</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>使用vue-cli搭建vue环境开发app的步骤<br>必须要先安装好nodeJS<br><a href="https://nodejs.org" target="_blank" rel="noopener">node官网</a>  <a href="https://nodejs.cn" target="_blank" rel="noopener">node中文网</a><br>可以在命令行输以下面代码<br>若返回版本号<br>则说明已经配置好node环境且可以使用npm</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$ node -v</span><br><span class="line">v10.6.0</span><br><span class="line"></span><br><span class="line">$ npm -v</span><br><span class="line">6.1.0</span><br></pre></td></tr></table></figure><h2 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h2><h3 id="下载vue-cli"><a href="#下载vue-cli" class="headerlink" title="下载vue-cli"></a>下载vue-cli</h3><p>打开cmd或者git bash等命令行工具<br>运行代码</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install vue-cli -g</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
@@ -40,20 +40,6 @@
       <category term="vue2" scheme="http://yoursite.com/tags/vue2/"/>
     
       <category term="app" scheme="http://yoursite.com/tags/app/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>这是新建的博客</title>
-    <link href="http://yoursite.com/2018/07/26/%E8%BF%99%E6%98%AF%E6%96%B0%E5%BB%BA%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2018/07/26/这是新建的博客/</id>
-    <published>2018-07-26T14:39:57.000Z</published>
-    <updated>2018-07-26T14:39:57.684Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
     
   </entry>
   
