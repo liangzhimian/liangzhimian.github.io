@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/07/31/testing/</loc>
+    
+    <lastmod>2018-07-31T12:01:50.573Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2018/07/27/%E7%94%A8vue-cli%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AAapp/</loc>
     
     <lastmod>2018-07-29T11:16:58.710Z</lastmod>
